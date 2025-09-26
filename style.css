@@ -1,0 +1,8 @@
+.grid-container {
+    display: grid;
+}
+
+.sidebar-container {
+    background-color: rgb(0, 174, 255);
+    color: white;
+}
